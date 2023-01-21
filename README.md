@@ -34,3 +34,6 @@ Dataset (1) rules.Ze | (2) bayes (3) funct (4) funct (5) lazy. (6) trees (7) tre
 iris (50)     33.33  | 95.47 v      96.33 v   96.33 v  95.20 v   94.27 v  94.53 v
 
 the result show that logistic regression and smo do the same on this problem so we choose the logistic because it is much simpler
+
+# model
+the model is writen in binary formate so to run it we need weka 3-8-6
